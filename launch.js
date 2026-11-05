@@ -79,22 +79,31 @@
     if (prepared.has(file.path)) return;
     received.set(file.path, 0);
     const controller = new AbortController();
-    const timer = setTimeout(() => controller.abort(), 300000);
+    let timer;
+    const resetDeadline = () => {
+      clearTimeout(timer);
+      timer = setTimeout(() => controller.abort(), 45000);
+    };
+    resetDeadline();
     try {
       // Read the complete response so subsequent webR requests can reuse the HTTP cache.
       const response = await fetch(new URL(file.path, base), { cache: "default", signal: controller.signal });
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
+      resetDeadline();
       if (response.body) {
         const reader = response.body.getReader();
         let bytes = 0;
         while (true) {
           const chunk = await reader.read();
           if (chunk.done) break;
+          resetDeadline();
           bytes += chunk.value.length;
           received.set(file.path, Math.min(file.bytes, bytes));
           showProgress();
         }
       } else {
+        clearTimeout(timer);
+        timer = setTimeout(() => controller.abort(), 300000);
         await response.arrayBuffer();
       }
       received.set(file.path, file.bytes);
