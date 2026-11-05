@@ -1,0 +1,458 @@
+{
+  "files": [
+    {
+      "path": "shinylive/shinylive.js",
+      "bytes": 1624121
+    },
+    {
+      "path": "shinylive/shinylive.css",
+      "bytes": 33366
+    },
+    {
+      "path": "shinylive/style-resets.css",
+      "bytes": 856
+    },
+    {
+      "path": "shinylive/chunk-FI4MPFYE.js",
+      "bytes": 3293
+    },
+    {
+      "path": "shinylive/chunk-TMZQEVO3.js",
+      "bytes": 147808
+    },
+    {
+      "path": "shinylive/webr/library.data.gz",
+      "bytes": 15057328
+    },
+    {
+      "path": "shinylive/webr/library.js.metadata",
+      "bytes": 181616
+    },
+    {
+      "path": "shinylive/webr/libRblas.so",
+      "bytes": 198205
+    },
+    {
+      "path": "shinylive/webr/libRlapack.so",
+      "bytes": 1769888
+    },
+    {
+      "path": "shinylive/webr/R.js",
+      "bytes": 785856
+    },
+    {
+      "path": "shinylive/webr/R.wasm",
+      "bytes": 18062845
+    },
+    {
+      "path": "shinylive/webr/webr-worker.js",
+      "bytes": 134029
+    },
+    {
+      "path": "shinylive/webr/webr.js",
+      "bytes": 66672
+    },
+    {
+      "path": "shinylive/webr/webr.mjs",
+      "bytes": 66586
+    },
+    {
+      "path": "shinylive/webr/packages/askpass/askpass_1.2.1.tgz",
+      "bytes": 17145
+    },
+    {
+      "path": "shinylive/webr/packages/backports/backports_1.5.1.tgz",
+      "bytes": 91246
+    },
+    {
+      "path": "shinylive/webr/packages/bit/bit_4.6.0.tgz",
+      "bytes": 489541
+    },
+    {
+      "path": "shinylive/webr/packages/bit64/bit64_4.8.6.tgz",
+      "bytes": 358043
+    },
+    {
+      "path": "shinylive/webr/packages/boot/boot_1.3-32.tgz",
+      "bytes": 510819
+    },
+    {
+      "path": "shinylive/webr/packages/broom/broom_1.0.13.tgz",
+      "bytes": 1428717
+    },
+    {
+      "path": "shinylive/webr/packages/cellranger/cellranger_1.1.0.tgz",
+      "bytes": 81231
+    },
+    {
+      "path": "shinylive/webr/packages/clipr/clipr_0.8.1.tgz",
+      "bytes": 45223
+    },
+    {
+      "path": "shinylive/webr/packages/codetools/codetools_0.2-20.tgz",
+      "bytes": 48849
+    },
+    {
+      "path": "shinylive/webr/packages/cowplot/cowplot_1.2.0.tgz",
+      "bytes": 1343961
+    },
+    {
+      "path": "shinylive/webr/packages/crayon/crayon_1.5.3.tgz",
+      "bytes": 112144
+    },
+    {
+      "path": "shinylive/webr/packages/crosstalk/crosstalk_1.2.2.tgz",
+      "bytes": 346096
+    },
+    {
+      "path": "shinylive/webr/packages/curl/curl_8.0.0.tgz",
+      "bytes": 2376698
+    },
+    {
+      "path": "shinylive/webr/packages/data.table/data.table_1.18.6.1.tgz",
+      "bytes": 2416255
+    },
+    {
+      "path": "shinylive/webr/packages/dplyr/dplyr_1.2.1.tgz",
+      "bytes": 1130500
+    },
+    {
+      "path": "shinylive/webr/packages/DSIR/DSIR_0.10.0.tgz",
+      "bytes": 372077
+    },
+    {
+      "path": "shinylive/webr/packages/DT/DT_0.34.0.tgz",
+      "bytes": 1729331
+    },
+    {
+      "path": "shinylive/webr/packages/evaluate/evaluate_1.0.5.tgz",
+      "bytes": 72262
+    },
+    {
+      "path": "shinylive/webr/packages/farver/farver_2.1.2.tgz",
+      "bytes": 1317442
+    },
+    {
+      "path": "shinylive/webr/packages/forcats/forcats_1.0.1.tgz",
+      "bytes": 383238
+    },
+    {
+      "path": "shinylive/webr/packages/foreach/foreach_1.5.2.tgz",
+      "bytes": 112785
+    },
+    {
+      "path": "shinylive/webr/packages/generics/generics_0.1.4.tgz",
+      "bytes": 75687
+    },
+    {
+      "path": "shinylive/webr/packages/ggplot2/ggplot2_4.0.3.tgz",
+      "bytes": 7481119
+    },
+    {
+      "path": "shinylive/webr/packages/glmnet/glmnet_5.1.tgz",
+      "bytes": 2216828
+    },
+    {
+      "path": "shinylive/webr/packages/gridExtra/gridExtra_2.3.1.tgz",
+      "bytes": 504576
+    },
+    {
+      "path": "shinylive/webr/packages/gtable/gtable_0.3.6.tgz",
+      "bytes": 184798
+    },
+    {
+      "path": "shinylive/webr/packages/haven/haven_2.5.5.tgz",
+      "bytes": 248430
+    },
+    {
+      "path": "shinylive/webr/packages/highr/highr_0.12.tgz",
+      "bytes": 30097
+    },
+    {
+      "path": "shinylive/webr/packages/hms/hms_1.1.4.tgz",
+      "bytes": 75650
+    },
+    {
+      "path": "shinylive/webr/packages/htmlwidgets/htmlwidgets_1.6.4.tgz",
+      "bytes": 83849
+    },
+    {
+      "path": "shinylive/webr/packages/httr/httr_1.4.9.tgz",
+      "bytes": 293059
+    },
+    {
+      "path": "shinylive/webr/packages/httr2/httr2_1.3.0.tgz",
+      "bytes": 548313
+    },
+    {
+      "path": "shinylive/webr/packages/isoband/isoband_0.3.0.tgz",
+      "bytes": 1627614
+    },
+    {
+      "path": "shinylive/webr/packages/iterators/iterators_1.0.14.tgz",
+      "bytes": 332101
+    },
+    {
+      "path": "shinylive/webr/packages/jomo/jomo_2.7-6.tgz",
+      "bytes": 1261505
+    },
+    {
+      "path": "shinylive/webr/packages/knitr/knitr_1.52.tgz",
+      "bytes": 777341
+    },
+    {
+      "path": "shinylive/webr/packages/labeling/labeling_0.4.3.tgz",
+      "bytes": 42861
+    },
+    {
+      "path": "shinylive/webr/packages/lattice/lattice_0.23-1.tgz",
+      "bytes": 1046940
+    },
+    {
+      "path": "shinylive/webr/packages/lazyeval/lazyeval_0.2.3.tgz",
+      "bytes": 141949
+    },
+    {
+      "path": "shinylive/webr/packages/litedown/litedown_0.11.tgz",
+      "bytes": 201080
+    },
+    {
+      "path": "shinylive/webr/packages/lme4/lme4_2.0-6.tgz",
+      "bytes": 4985647
+    },
+    {
+      "path": "shinylive/webr/packages/markdown/markdown_2.0.tgz",
+      "bytes": 48182
+    },
+    {
+      "path": "shinylive/webr/packages/MASS/MASS_7.3-66.tgz",
+      "bytes": 873258
+    },
+    {
+      "path": "shinylive/webr/packages/Matrix/Matrix_1.7-6.tgz",
+      "bytes": 2934190
+    },
+    {
+      "path": "shinylive/webr/packages/metadata.rds",
+      "bytes": 5411
+    },
+    {
+      "path": "shinylive/webr/packages/mice/mice_3.19.0.tgz",
+      "bytes": 1186878
+    },
+    {
+      "path": "shinylive/webr/packages/minqa/minqa_1.2.8.tgz",
+      "bytes": 85538
+    },
+    {
+      "path": "shinylive/webr/packages/mitml/mitml_0.4-5.tgz",
+      "bytes": 366476
+    },
+    {
+      "path": "shinylive/webr/packages/naniar/naniar_1.1.0.tgz",
+      "bytes": 2704793
+    },
+    {
+      "path": "shinylive/webr/packages/nlme/nlme_3.1-171.tgz",
+      "bytes": 1753155
+    },
+    {
+      "path": "shinylive/webr/packages/nloptr/nloptr_2.2.1.9000.tgz",
+      "bytes": 364263
+    },
+    {
+      "path": "shinylive/webr/packages/nnet/nnet_7.3-21.tgz",
+      "bytes": 66946
+    },
+    {
+      "path": "shinylive/webr/packages/norm/norm_1.0-11.1.tgz",
+      "bytes": 70261
+    },
+    {
+      "path": "shinylive/webr/packages/numDeriv/numDeriv_2016.8-1.1.tgz",
+      "bytes": 103011
+    },
+    {
+      "path": "shinylive/webr/packages/openssl/openssl_2.4.2.tgz",
+      "bytes": 2388297
+    },
+    {
+      "path": "shinylive/webr/packages/ordinal/ordinal_2026.7-26.tgz",
+      "bytes": 914137
+    },
+    {
+      "path": "shinylive/webr/packages/pan/pan_2.0.tgz",
+      "bytes": 925224
+    },
+    {
+      "path": "shinylive/webr/packages/pillar/pillar_1.11.1.tgz",
+      "bytes": 497042
+    },
+    {
+      "path": "shinylive/webr/packages/pkgconfig/pkgconfig_2.0.3.tgz",
+      "bytes": 18480
+    },
+    {
+      "path": "shinylive/webr/packages/plotly/plotly_4.12.1.tgz",
+      "bytes": 3678770
+    },
+    {
+      "path": "shinylive/webr/packages/plyr/plyr_1.8.9.tgz",
+      "bytes": 705053
+    },
+    {
+      "path": "shinylive/webr/packages/purrr/purrr_1.2.2.tgz",
+      "bytes": 447884
+    },
+    {
+      "path": "shinylive/webr/packages/rbibutils/rbibutils_2.4.1.tgz",
+      "bytes": 1070443
+    },
+    {
+      "path": "shinylive/webr/packages/RColorBrewer/RColorBrewer_1.1-3.tgz",
+      "bytes": 26996
+    },
+    {
+      "path": "shinylive/webr/packages/Rdpack/Rdpack_2.6.6.tgz",
+      "bytes": 525340
+    },
+    {
+      "path": "shinylive/webr/packages/readr/readr_2.2.0.tgz",
+      "bytes": 497640
+    },
+    {
+      "path": "shinylive/webr/packages/readxl/readxl_1.5.0.1.tgz",
+      "bytes": 780114
+    },
+    {
+      "path": "shinylive/webr/packages/reformulas/reformulas_0.4.4.tgz",
+      "bytes": 120851
+    },
+    {
+      "path": "shinylive/webr/packages/rematch/rematch_2.0.0.tgz",
+      "bytes": 16709
+    },
+    {
+      "path": "shinylive/webr/packages/repr/repr_1.1.7.tgz",
+      "bytes": 92956
+    },
+    {
+      "path": "shinylive/webr/packages/rmarkdown/rmarkdown_2.32.tgz",
+      "bytes": 2387326
+    },
+    {
+      "path": "shinylive/webr/packages/rpart/rpart_4.1.27.tgz",
+      "bytes": 602455
+    },
+    {
+      "path": "shinylive/webr/packages/S7/S7_0.2.2.tgz",
+      "bytes": 225283
+    },
+    {
+      "path": "shinylive/webr/packages/scales/scales_1.4.0.tgz",
+      "bytes": 620880
+    },
+    {
+      "path": "shinylive/webr/packages/shape/shape_1.4.6.1.tgz",
+      "bytes": 722756
+    },
+    {
+      "path": "shinylive/webr/packages/skimr/skimr_2.2.2.tgz",
+      "bytes": 1355442
+    },
+    {
+      "path": "shinylive/webr/packages/stringi/stringi_1.8.9.tgz",
+      "bytes": 14091735
+    },
+    {
+      "path": "shinylive/webr/packages/stringr/stringr_1.6.0.tgz",
+      "bytes": 279560
+    },
+    {
+      "path": "shinylive/webr/packages/survival/survival_3.8-12.tgz",
+      "bytes": 7297264
+    },
+    {
+      "path": "shinylive/webr/packages/sys/sys_3.4.3.tgz",
+      "bytes": 33034
+    },
+    {
+      "path": "shinylive/webr/packages/tibble/tibble_3.3.1.tgz",
+      "bytes": 534486
+    },
+    {
+      "path": "shinylive/webr/packages/tidyr/tidyr_1.3.2.tgz",
+      "bytes": 1024746
+    },
+    {
+      "path": "shinylive/webr/packages/tidyselect/tidyselect_1.2.1.tgz",
+      "bytes": 166200
+    },
+    {
+      "path": "shinylive/webr/packages/tinytex/tinytex_0.61.tgz",
+      "bytes": 93843
+    },
+    {
+      "path": "shinylive/webr/packages/tzdb/tzdb_0.5.0.tgz",
+      "bytes": 620281
+    },
+    {
+      "path": "shinylive/webr/packages/ucminf/ucminf_1.2.3.tgz",
+      "bytes": 30044
+    },
+    {
+      "path": "shinylive/webr/packages/UpSetR/UpSetR_1.4.1.tgz",
+      "bytes": 4139152
+    },
+    {
+      "path": "shinylive/webr/packages/utf8/utf8_1.2.6.tgz",
+      "bytes": 120303
+    },
+    {
+      "path": "shinylive/webr/packages/vctrs/vctrs_0.7.3.tgz",
+      "bytes": 1433335
+    },
+    {
+      "path": "shinylive/webr/packages/viridis/viridis_0.6.5.tgz",
+      "bytes": 3013663
+    },
+    {
+      "path": "shinylive/webr/packages/viridisLite/viridisLite_0.4.3.tgz",
+      "bytes": 1295884
+    },
+    {
+      "path": "shinylive/webr/packages/visdat/visdat_0.6.1.tgz",
+      "bytes": 1197724
+    },
+    {
+      "path": "shinylive/webr/packages/vroom/vroom_1.7.1.9000.tgz",
+      "bytes": 401471
+    },
+    {
+      "path": "shinylive/webr/packages/xfun/xfun_0.61.tgz",
+      "bytes": 434074
+    },
+    {
+      "path": "shinylive/webr/packages/yaml/yaml_2.3.12.tgz",
+      "bytes": 88482
+    },
+    {
+      "path": "shinylive/webr/packages/zip/zip_3.0.2.tgz",
+      "bytes": 147860
+    }
+  ],
+  "apps": {
+    "workshop": [
+      {
+        "path": "app.json",
+        "bytes": 6524747
+      }
+    ],
+    "classic": [
+      {
+        "path": "classic/app.json",
+        "bytes": 6524741
+      }
+    ]
+  }
+}

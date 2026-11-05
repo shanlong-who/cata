@@ -6,7 +6,9 @@ Open the classic app: https://shanlong-who.github.io/cata/classic/
 
 Both editions use cataScience 2.2.0 and run R in your browser with Shinylive.
 You do not need to install R. The first visit downloads the R runtime and
-packages, so allow time for loading. Uploaded data are processed in your
+packages. A visible English/Chinese startup screen shows real download
+progress, prepares files with four concurrent downloads, and offers retry
+and local-R instructions if startup fails. Uploaded data are processed in your
 browser. External links open the websites they name.
 
 The workshop includes a connected data workflow, public health teaching
