@@ -1,0 +1,9 @@
+{
+  "package": "cataScience",
+  "version": "2.2.0",
+  "source_commit": "727e2533f8ec1ab31c0af9e3ec7ecf48c1a97084",
+  "shinylive": "0.5.0",
+  "assets": "0.10.16",
+  "workshop": "./",
+  "classic": "classic/"
+}
