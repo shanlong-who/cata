@@ -4,6 +4,13 @@ Open the workshop app: **https://shanlong-who.github.io/cata/**
 
 Open the classic app: https://shanlong-who.github.io/cata/classic/
 
+For a class in Simplified Chinese, use the
+[Chinese workshop](https://shanlong-who.github.io/cata/?lang=zh) or the
+[Chinese classic app](https://shanlong-who.github.io/cata/classic/?lang=zh).
+Select **中文** or **English** in the navbar at any time. Switching languages
+keeps the current lesson, loaded data and quiz progress. A language selected
+on the startup screen also applies to the classroom.
+
 Both editions use cataScience 2.2.0 and run R in your browser with Shinylive.
 You do not need to install R. The first visit downloads the R runtime and
 packages. A visible English/Chinese startup screen shows real download

@@ -445,13 +445,13 @@
     "workshop": [
       {
         "path": "app.json",
-        "bytes": 6524747
+        "bytes": 6712375
       }
     ],
     "classic": [
       {
         "path": "classic/app.json",
-        "bytes": 6524741
+        "bytes": 6712369
       }
     ]
   }
