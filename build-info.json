@@ -1,7 +1,7 @@
 {
   "package": "cataScience",
-  "version": "2.2.0.9000",
-  "source_commit": "3c46be65c911d82a9907de34cf8d04db648bf1fe",
+  "version": "3.0.0",
+  "source_commit": "eeb63348250c4d0d237bf0ef83c42778fe667791",
   "shinylive": "0.5.0",
   "assets": "0.10.16",
   "app": "./",
