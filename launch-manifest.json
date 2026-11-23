@@ -234,7 +234,7 @@
     },
     {
       "path": "shinylive/webr/packages/metadata.rds",
-      "bytes": 5411
+      "bytes": 5365
     },
     {
       "path": "shinylive/webr/packages/mice/mice_3.19.0.tgz",
@@ -437,22 +437,8 @@
       "bytes": 88482
     },
     {
-      "path": "shinylive/webr/packages/zip/zip_3.0.2.tgz",
-      "bytes": 147860
+      "path": "app.json",
+      "bytes": 6281041
     }
-  ],
-  "apps": {
-    "workshop": [
-      {
-        "path": "app.json",
-        "bytes": 6712375
-      }
-    ],
-    "classic": [
-      {
-        "path": "classic/app.json",
-        "bytes": 6712369
-      }
-    ]
-  }
+  ]
 }

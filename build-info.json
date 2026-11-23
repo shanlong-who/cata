@@ -1,9 +1,9 @@
 {
   "package": "cataScience",
-  "version": "2.2.0",
-  "source_commit": "431051cc98eb36cb6135bcdd7152db184cc61165",
+  "version": "2.2.0.9000",
+  "source_commit": "3c46be65c911d82a9907de34cf8d04db648bf1fe",
   "shinylive": "0.5.0",
   "assets": "0.10.16",
-  "workshop": "./",
-  "classic": "classic/"
+  "app": "./",
+  "legacy_redirect": "classic/"
 }
